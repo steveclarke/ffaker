@@ -28,6 +28,7 @@ module Faker
   autoload :AddressUK,     'ffaker/address_uk'
   autoload :Company,       'ffaker/company'
   autoload :Education,     'ffaker/education'
+  autoload :Location,      'ffaker/location'
   autoload :Geolocation,   'ffaker/geolocation'
   autoload :HTMLIpsum,     'ffaker/html_ipsum'
   autoload :HipsterIpsum,  'ffaker/hipster_ipsum'
